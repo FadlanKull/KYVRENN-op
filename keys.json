@@ -2,5 +2,9 @@
   "KYV-ADMIN": {
     "expires": 4102444800,
     "note": "Key Permanen Admin"
+  },
+  "KYV-TRIAL": {
+    "expires": 1790430556,
+    "note": "Custom Key (1 minutes)"
   }
 }

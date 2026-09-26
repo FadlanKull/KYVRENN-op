@@ -6,5 +6,9 @@
   "KYV-TRIAL": {
     "expires": 1790430616,
     "note": "Custom Key (1 minutes)"
+  },
+  "KYV-77777": {
+    "expires": 1790430903,
+    "note": "Custom Key (5 minutes)"
   }
 }

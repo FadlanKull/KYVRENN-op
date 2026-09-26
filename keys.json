@@ -3,10 +3,6 @@
     "expires": 4102444800,
     "note": "Key Permanen Admin"
   },
-  "KYV-123": {
-    "expires": 1793018887,
-    "note": "Manual Key via Admin Panel"
-  },
   "KYV-225451": {
     "expires": 1790514042,
     "note": "Auto Generated via Get Key Site"

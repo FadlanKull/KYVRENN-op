@@ -6,9 +6,5 @@
   "KYV-77777": {
     "expires": 1790430903,
     "note": "Custom Key (5 minutes)"
-  },
-  "KYV-542749": {
-    "expires": 1790517232,
-    "note": "Auto Generated via Get Key Site"
   }
 }
